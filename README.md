@@ -60,7 +60,7 @@
 
 </details>
 
-Copy<details>
+<details>
 <summary>University Projects</summary>
 
 ### Term 4
