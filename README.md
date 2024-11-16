@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMTAwIj4KICA8c3R5bGU+CiAgICBAa2V5ZnJhbWVzIHdhdmUgewogICAgICAwJSwgMTAwJSB7IHRyYW5zZm9ybTogdHJhbnNsYXRlWSgwKTsgfQogICAgICA1MCUgeyB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTE1cHgpOyB9CiAgICB9CiAgICAud2F2ZSB7IGFuaW1hdGlvbjogd2F2ZSAycyBlYXNlLWluLW91dCBpbmZpbml0ZTsgfQogICAgLmQxIHsgYW5pbWF0aW9uLWRlbGF5OiAtMC4yczsgfQogICAgLmQyIHsgYW5pbWF0aW9uLWRlbGF5OiAtMC4xczsgfQogICAgLmQzIHsgYW5pbWF0aW9uLWRlbGF5OiAwczsgfQogIDwvc3R5bGU+CiAgPHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0MHB4IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzI0MjkyZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSI+CiAgICA8dHNwYW4gY2xhc3M9IndhdmUgZDEiPkx1Y2E8L3RzcGFuPgogICAgPHRzcGFuIGNsYXNzPSJ3YXZlIGQyIj5CcmVlPC90c3Bhbj4KICAgIDx0c3BhbiBjbGFzcz0id2F2ZSBkMyI+YmFhcnQ8L3RzcGFuPgogIDwvdGV4dD4KPC9zdmc+" alt="Luca Breebaart" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Luca+Breebaart;Full+Stack+Developer" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -63,13 +63,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucaBreebaart&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LucaBreebaart&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucaBreebaart&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaBreebaart&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucaBreebaart&theme=dark&hide_border=true)
 
 </div>
 
