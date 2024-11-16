@@ -60,6 +60,16 @@
 
 </details>
 
+<details>
+<summary>University Projects</summary>
+
+[![Formins](https://img.shields.io/badge/-Formins-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/LucaBreebaart/Formins) - Term 4
+[![Du Fang](https://img.shields.io/badge/-Du_Fang-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/LucaBreebaart/Du_Fang) - Term 3
+[![Lycra](https://img.shields.io/badge/-Lycra-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/LucaBreebaart/lycra) - Term 2
+[![Radian](https://img.shields.io/badge/-Radian-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/LucaBreebaart/Radian) - Term 1
+
+</details>
+
 ## ⚡ GitHub Stats
 
 <div align="center">
