@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Luca+Breebaart;Full+Stack+Developer&color=000000" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Luca+Breebaart;Full+Stack+Developer&color=FFFFFF" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -64,7 +64,7 @@
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucaBreebaart&theme=github-dark-blue&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucaBreebaart&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
 </div>
 
