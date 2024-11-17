@@ -63,19 +63,30 @@
 <details>
 <summary>University Projects</summary>
 
-### Term 4
-[Formins](https://github.com/LucaBreebaart/Formins)  
-
-### Term 3
-[Du Fang](https://github.com/LucaBreebaart/Du_Fang)  
-
-### Term 2
-[Lycra](https://github.com/LucaBreebaart/lycra)  
-
-### Term 1
-[Radian](https://github.com/LucaBreebaart/Radian) 
-
-</details>
+<div align="center">
+    <table style="background-color: #1a1a1a; color: #ffffff">
+        <tr>
+            <td><a href="https://github.com/eust-w/gopic" style="color: #ffffff">gopic</a> - Fast image hosting tool</td>
+            <td><a href="https://github.com/eust-w/esh" style="color: #ffffff">esh</a> - Simple cross-platform SSH link management tool</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/eust-w/rsm" style="color: #ffffff">rsm</a> - RSS subscription function aggregation tool</td>
+            <td><a href="https://github.com/eust-w/obsidian-image-auto-upload" style="color: #ffffff">obsidian image plugin</a> - Upload images from your clipboard obsidian plugin</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/eust-w/qcow2file" style="color: #ffffff">qcow2file</a> - Generate qcow2 image from dockerfile</td>
+            <td><a href="https://github.com/eust-w/aiPlatform" style="color: #ffffff">ai with wechat</a> - WeChat chat robot that uses various AI</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/eust-w/openai-chat-switch" style="color: #ffffff">chat-switch lib</a> - Chat embeddings & switch packages</td>
+            <td><a href="https://github.com/eust-w/govirsh" style="color: #ffffff">govirsh</a> - Virsh go package</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/eust-w/ltrobot-mimiwechat" style="color: #ffffff">ai chat WeChat applet</a> - Ai chat with ltrobot</td>
+            <td><a href="https://github.com/eust-w/gnome-extension-wakwaka" style="color: #ffffff">gnome-extension-wakwaka</a> - Gnome-extension</td>
+        </tr>
+    </table>
+</div>
 
 ## ⚡ GitHub Stats
 
