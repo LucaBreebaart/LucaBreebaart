@@ -60,30 +60,15 @@
 
 </details>
 
-<details>
-<summary>University Projects</summary>
-
 <div align="center">
     <table style="background-color: #1a1a1a; color: #ffffff">
         <tr>
-            <td><a href="https://github.com/eust-w/gopic" style="color: #ffffff">gopic</a> - Fast image hosting tool</td>
-            <td><a href="https://github.com/eust-w/esh" style="color: #ffffff">esh</a> - Simple cross-platform SSH link management tool</td>
+            <td><a href="https://github.com/LucaBreebaart/Formins" style="color: #ffffff">Formins</a> - Term 4 Project</td>
+            <td><a href="https://github.com/LucaBreebaart/Du_Fang" style="color: #ffffff">Du Fang</a> - Term 3 Project</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/eust-w/rsm" style="color: #ffffff">rsm</a> - RSS subscription function aggregation tool</td>
-            <td><a href="https://github.com/eust-w/obsidian-image-auto-upload" style="color: #ffffff">obsidian image plugin</a> - Upload images from your clipboard obsidian plugin</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/eust-w/qcow2file" style="color: #ffffff">qcow2file</a> - Generate qcow2 image from dockerfile</td>
-            <td><a href="https://github.com/eust-w/aiPlatform" style="color: #ffffff">ai with wechat</a> - WeChat chat robot that uses various AI</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/eust-w/openai-chat-switch" style="color: #ffffff">chat-switch lib</a> - Chat embeddings & switch packages</td>
-            <td><a href="https://github.com/eust-w/govirsh" style="color: #ffffff">govirsh</a> - Virsh go package</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/eust-w/ltrobot-mimiwechat" style="color: #ffffff">ai chat WeChat applet</a> - Ai chat with ltrobot</td>
-            <td><a href="https://github.com/eust-w/gnome-extension-wakwaka" style="color: #ffffff">gnome-extension-wakwaka</a> - Gnome-extension</td>
+            <td><a href="https://github.com/LucaBreebaart/lycra" style="color: #ffffff">Lycra</a> - Term 2 Project</td>
+            <td><a href="https://github.com/LucaBreebaart/Radian" style="color: #ffffff">Radian</a> - Term 1 Project</td>
         </tr>
     </table>
 </div>
