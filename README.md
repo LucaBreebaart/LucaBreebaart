@@ -14,7 +14,7 @@
 
 <div align="center">
   
-![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=Licabreebaart&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=LucaBreebaart&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ___
