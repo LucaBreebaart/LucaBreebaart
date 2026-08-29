@@ -14,8 +14,7 @@
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucaBreebaart&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
-
+![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=Licabreebaart&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ___
